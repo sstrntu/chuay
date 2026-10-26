@@ -6,8 +6,8 @@
   "start_url": "/chwy/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#FBF6EE",
-  "theme_color": "#FBF6EE",
+  "background_color": "#F5F5F5",
+  "theme_color": "#F5F5F5",
   "icons": [
     {
       "src": "/chwy/icon-192.png",
